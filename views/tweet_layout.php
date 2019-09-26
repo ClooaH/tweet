@@ -1,4 +1,5 @@
 <?php include 'head.php' ?>
+<?php include 'navbar.php' ?>
     <div class="container px-5">
         <div class="container">
             <div class="card mb-3" style="max-width: 540px;">
